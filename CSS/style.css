@@ -38,12 +38,13 @@ padding: 14px 16px;
 text-decoration: none;
 }
 .navbar a:hover{
-background-color: rgb(0, 0, 0);
+background-color: rgb(255, 255, 255);
 color: rgb(95, 219, 223);
 }
  /* contato.html */
 
 .formulario-campo{
+color: rgb(255, 255, 255);
 display: flex; 
 flex: 1;
 gap: 16px; 
