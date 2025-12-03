@@ -32,19 +32,19 @@ width: 50%;
 .navbar a{
 float: left;
 display: block;
-color: rgb(255, 255, 255);
+color: rgb(0, 0, 0);
 text-align: center;
 padding: 14px 16px;
 text-decoration: none;
 }
 .navbar a:hover{
-background-color: rgb(255, 255, 255);
-color: rgb(95, 219, 223);
+background-color: #222;
+ color: #00eaff;
 }
  /* contato.html */
 
 .formulario-campo{
-color: rgb(255, 255, 255);
+color: rgb(0, 0, 0);
 display: flex; 
 flex: 1;
 gap: 16px; 
