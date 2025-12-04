@@ -41,6 +41,11 @@ text-decoration: none;
 background-color: #222;
  color: #00eaff;
 }
+.footer {
+ 
+  color: #fff;
+  text-align: center
+}
  /* contato.html */
 
 .formulario-campo{
